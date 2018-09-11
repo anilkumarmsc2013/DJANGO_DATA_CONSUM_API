@@ -1,0 +1,12 @@
+
+# After creating Virtualenv
+
+# Install Django
+
+pip install Django==1.11.15
+
+#install Python requests
+pip install requests
+
+#install Django Rest Framework
+ pip install djangorestframework
